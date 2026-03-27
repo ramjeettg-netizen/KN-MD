@@ -1,15 +1,15 @@
 {
-  "name": "KHAN-MD",
+  "name": "ᴄʜɪᴢᴜʀᴜ ᴍɪᴢᴜʜᴀʀᴀ",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-MD"],
+  "logo": "https://repgyetdcodkynrbxocg.supabase.co/storage/v1/object/public/images/telegram-1774585830784-8f5d89f8.jpg",
+  "keywords": ["ᴄʜɪᴢᴜʀᴜ ᴍɪᴢᴜʜᴀʀᴀ"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here. (Required)",
       "required": true,
-      "value": ""
+      "value": "DJ~Z643AKSZ#Kaom4SaEScwXfBUU_vtJbtMYbtSNkM0ApmFUVY_eoBE"
     },
     "PREFIX": {
       "description": "Bot prefix (Default: .)",
@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "Your bot name (Default: KHAN-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "ᴄʜɪᴢᴜʀᴜ ᴍɪᴢᴜʜᴀʀᴀ"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -29,12 +29,12 @@
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 923427582273)",
       "required": false,
-      "value": "923427582273"
+      "value": "96876390369"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "ᴍɪᴢᴜʜᴀʀᴀ TᴇᴄʜX"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -149,7 +149,7 @@
     "BOT_MEDIA_URL": {
       "description": "Bot media URL",
       "required": false,
-      "value": "https://files.catbox.moe/7zfdcq.jpg"
+      "value": "https://repgyetdcodkynrbxocg.supabase.co/storage/v1/object/public/images/telegram-1774585830784-8f5d89f8.jpg"
     },
     "AUTO_DOWNLOADER": {
       "description": "Auto downloader: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by ᴍɪᴢᴜʜᴀʀᴀ TᴇᴄʜX*"
     }
   },
   "buildpacks": [
